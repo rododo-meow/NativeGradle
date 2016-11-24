@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NativeGradle.iml" filepath="$PROJECT_DIR$/.idea/modules/NativeGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NativeGradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/NativeGradle_main.iml" group="NativeGradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NativeGradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/NativeGradle_test.iml" group="NativeGradle" />
+    </modules>
+  </component>
+</project>

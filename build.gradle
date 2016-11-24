@@ -1,0 +1,37 @@
+group 'pers.rododo'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'groovy'
+apply plugin: 'java-gradle-plugin'
+
+repositories {
+    mavenCentral()
+}
+
+sourceSets {
+    test {
+        groovy {
+            srcDir file('src/test/groovy')
+        }
+    }
+    main {
+        groovy {
+            srcDir file('src/main/groovy')
+        }
+        resources {
+            srcDir file('src/main/resources')
+        }
+    }
+}
+
+gradlePlugin {
+    pluginSourceSet sourceSets.main
+    testSourceSets sourceSets.test
+}
+
+dependencies {
+    compile gradleApi()
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+    println gradleTestKit()
+    testCompile gradleTestKit()
+}

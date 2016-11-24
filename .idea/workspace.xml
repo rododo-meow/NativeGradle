@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6db7f8e-5844-4855-940e-9b5cf10f4ece" name="Default" comment="" />
+    <ignored path="NativeGradle.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state />
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NativeGradle" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="NativeGradleTest.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/groovy/NativeGradleTest.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#303#344#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="URL.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/jdk1.8.0_91/src.zip!/java/net/URL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="824" column="18" selection-start-line="824" selection-start-column="18" selection-end-line="824" selection-end-column="18" />
+              <folding>
+                <element signature="e#30877#30878#0" expanded="true" />
+                <element signature="e#30904#30905#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GradleRunner.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/3.2.1/generated-gradle-jars/gradle-test-kit-3.2.1.jar!/org/gradle/testkit/runner/GradleRunner.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NativeGradle.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/pers/rododo/nativegradle/NativeGradle.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <element signature="e#34#62#0" expanded="true" />
+                <element signature="e#127#168#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TemporaryFolder.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/28e0ad201304e4a4abf999ca0570b7cffc352c3c/junit-4.11-sources.jar!/org/junit/rules/TemporaryFolder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="136" column="16" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="16" />
+              <folding>
+                <element signature="e#888#889#0" expanded="true" />
+                <element signature="e#936#937#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugin-under-test-metadata.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/pluginUnderTestMetadata/plugin-under-test-metadata.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pers.rododo.nativegradle.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/resources/main/META-INF/gradle-plugins/pers.rododo.nativegradle.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradlew" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1934">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-bin/erlz51pt56t1o6vc7t39cikug/gradle-3.2.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3.2.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="NativeGradle" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="NativeGradle" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'NativeGradle'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="pluginUnderTestMetadata" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'NativeGradle'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'NativeGradle'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'NativeGradle'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the test Groovy source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestGroovy" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'NativeGradle'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the main Groovy source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileGroovy" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'NativeGradle'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="pluginDescriptors" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Groovydoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="groovydoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'NativeGradle'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'NativeGradle'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="validateTaskProperties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'NativeGradle'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="2959938477644" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="NativeGradle" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/task-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-ui-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-launcher-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-model-groovy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-model-core-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-base-services-groovy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-logging-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-open-api-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-installation-beacon-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-tooling-api-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-docs-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-process-services-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-script-kotlin-0.4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-jvm-services-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-messaging-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-base-services-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-cli-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/groovy-all-2.4.7.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-wrapper-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-resources-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/gradle-core-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-testing-base-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-diagnostics-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-platform-jvm-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ear-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-platform-play-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-antlr-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-code-quality-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-java-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-composite-builds-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-scala-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-groovy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-announce-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-jvm-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-build-init-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-signing-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ivy-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-javascript-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-task-cache-http-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-resources-http-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-test-kit-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-plugins-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-testing-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-build-comparison-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-publish-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ide-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-plugin-use-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-reporting-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-jacoco-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-dependency-management-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-platform-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ide-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-platform-base-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-testing-jvm-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-osgi-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-jetty-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-ide-play-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-native-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-resources-s3-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-plugin-development-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-tooling-api-builders-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-maven-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-resources-sftp-3.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.2.1-all/8lz77g2tsnl6gxlpeowwkfgj1/gradle-3.2.1/lib/plugins/gradle-language-scala-3.2.1.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.13-bin/4xsgxlfjcxvrea7akf941nvc7/gradle-2.13/lib/gradle-core-2.13.jar!/org/gradle/api/Project.class" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/pers.rododo.nativegradle.properties" />
+        <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/groovy/NativeGradleTest.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/pers/rododo/nativegradle/NativeGradle.groovy" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="364" />
+    <option name="width" value="1855" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NativeGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NativeGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pluginUnderTestMetadata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NativeGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NativeGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NativeGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NativeGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NativeGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NativeGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gradle-plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NativeGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NativeGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nativegradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NativeGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NativeGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF/gradle-plugins" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.NativeGradleTest">
+    <configuration default="false" name="NativeGradle [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="init" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="NativeGradle [wrapper]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="wrapper" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="NativeGradleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="NativeGradle_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NativeGradleTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" goal="" />
+      </method>
+    </configuration>
+    <configuration default="false" name="NativeGradle [testClasses]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testClasses" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="NativeGradle" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Gradle.NativeGradle [init]" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.NativeGradle [wrapper]" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.NativeGradleTest" />
+      <item index="3" class="java.lang.String" itemvalue="Gradle.NativeGradle [testClasses]" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.NativeGradleTest" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.NativeGradle [testClasses]" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.NativeGradle [wrapper]" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.NativeGradle [init]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6db7f8e-5844-4855-940e-9b5cf10f4ece" name="Default" comment="" />
+      <created>1479962013091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1479962013091</updated>
+      <workItem from="1479962015286" duration="9477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="NativeGradleTest - 2016.11.24 at 17h 05m 53s.xml">
+      <configuration name="NativeGradleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NativeGradleTest - 2016.11.24 at 17h 06m 17s.xml">
+      <configuration name="NativeGradleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NativeGradleTest - 2016.11.24 at 17h 07m 04s.xml">
+      <configuration name="NativeGradleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NativeGradleTest - 2016.11.24 at 17h 08m 16s.xml">
+      <configuration name="NativeGradleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NativeGradleTest - 2016.11.24 at 17h 08m 44s.xml">
+      <configuration name="NativeGradleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NativeGradleTest - 2016.11.24 at 17h 12m 43s.xml">
+      <configuration name="NativeGradleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NativeGradleTest - 2016.11.24 at 17h 13m 07s.xml">
+      <configuration name="NativeGradleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NativeGradleTest - 2016.11.24 at 17h 30m 25s.xml">
+      <configuration name="NativeGradleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NativeGradleTest - 2016.11.24 at 17h 31m 01s.xml">
+      <configuration name="NativeGradleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NativeGradleTest - 2016.11.24 at 17h 32m 08s.xml">
+      <configuration name="NativeGradleTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9477000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="364" width="1855" height="1176" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946378" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.13-bin/4xsgxlfjcxvrea7akf941nvc7/gradle-2.13/lib/gradle-core-2.13.jar!/org/gradle/api/Project.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="126" column="39" selection-start-line="126" selection-start-column="39" selection-end-line="126" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/gradle-plugins/pers.rododo.nativegradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.13-all/1b9wlm73elu4cqnbc0rk7r7qn/gradle-2.13/src/core/org/gradle/api/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="408" column="9" selection-start-line="408" selection-start-column="9" selection-end-line="408" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.13-all/1b9wlm73elu4cqnbc0rk7r7qn/gradle-2.13/src/core/org/gradle/api/tasks/TaskContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="147" column="23" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/jdk1.8.0_91/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="1070" column="16" selection-start-line="1070" selection-start-column="16" selection-end-line="1070" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-2.13-bin/4xsgxlfjcxvrea7akf941nvc7/gradle-2.13/lib/gradle-core-2.13.jar!/org/gradle/api/artifacts/Dependency.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gradle/wrapper/dists/gradle-2.13-all/1b9wlm73elu4cqnbc0rk7r7qn/gradle-2.13/src/core/org/gradle/api/artifacts/dsl/DependencyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="257" column="17" selection-start-line="257" selection-start-column="17" selection-end-line="257" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#13940#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1934">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/jdk1.8.0_91/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="824" column="18" selection-start-line="824" selection-start-column="18" selection-end-line="824" selection-end-column="18" />
+          <folding>
+            <element signature="e#30877#30878#0" expanded="true" />
+            <element signature="e#30904#30905#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/resources/main/META-INF/gradle-plugins/pers.rododo.nativegradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/pluginUnderTestMetadata/plugin-under-test-metadata.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/28e0ad201304e4a4abf999ca0570b7cffc352c3c/junit-4.11-sources.jar!/org/junit/rules/TemporaryFolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="136" column="16" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="16" />
+          <folding>
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/NativeGradleTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#303#344#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/3.2.1/generated-gradle-jars/gradle-test-kit-3.2.1.jar!/org/gradle/testkit/runner/GradleRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/pers/rododo/nativegradle/NativeGradle.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="e#34#62#0" expanded="true" />
+            <element signature="e#127#168#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 23 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>NativeGradle_test|NativeGradle</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
